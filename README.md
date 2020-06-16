@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
- Projeto GoFinances em desenvolvimento durante o 🚀Bootcamp GoStack 11.0 da <a href="https://rocketseat.com.br/">Rocketseat</a>
+ Projeto GoFinances desenvolvido durante o 🚀Bootcamp GoStack 11.0 da <a href="https://rocketseat.com.br/">Rocketseat</a>
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 📌Tecnologias
 
-Projeto em desenvolvimento com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [TypeScript](https://www.npmjs.com/package/typescript) Tipagem
 - [Node.js](https://nodejs.org/en/) Back-End
